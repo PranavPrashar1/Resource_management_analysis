@@ -17,16 +17,5 @@ To use this project, ensure you have the following installed on your system:
 -numpy
 -seaborn
 
-##Install the required libraries using pip:
-```bash
-pip install pandas matplotlib numpy seaborn
-
-##Clone the repository:
-```bash
-git clone https://github.com/PranavPrashar1/resource-management-analysis.git
-
-##Navigate to the project directory:
-```bash
-cd resource-management-analysis
 
 
