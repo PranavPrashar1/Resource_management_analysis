@@ -1,0 +1,8 @@
+Employee_ID,Team,Allocated_Hours,Utilized_Hours,Availability_Hours,Efficiency (%),Project_Assigned,Task_Status
+101,Audit_Team_A,40,38,5,95,Project_X,Completed
+102,Audit_Team_B,35,30,10,85,Project_Y,In Progress
+103,Audit_Team_A,45,42,2,93,Project_X,Completed
+104,Audit_Team_C,30,25,8,83,Project_Z,Pending
+105,Audit_Team_B,50,40,10,80,Project_Y,In Progress
+106,Audit_Team_A,38,36,4,95,Project_X,Completed
+107,Audit_Team_C,25,20,12,80,Project_Z,Pending
